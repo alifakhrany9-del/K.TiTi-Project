@@ -8,7 +8,6 @@ https://www.instagram.com/k.titiscarves/
 ## Facebook Link 💫
 https://www.facebook.com/K.TiTiscarves
 
-![FireShot Capture 027 - (2) Facebook -  www facebook com](https://github.com/user-attachments/assets/4c4d85fa-17dc-4b01-afe0-6b717ece8ee8)
 <img width="455" height="570" alt="image" src="https://github.com/user-attachments/assets/214af3f3-7596-4e7e-8328-d87a046c6914" />
 
 
