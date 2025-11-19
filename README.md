@@ -151,8 +151,15 @@ Success = **Creativity + Consistency + Customer Trust**
 
 ## 👥 Work Team  
 Find the team on LinkedIn and freelancing platforms.
-1 . https://www.linkedin.com/in/abdelrhman-hamed23/
-2 . https://www.linkedin.com/in/mostafa-osama-304055240?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app
-3 . https://www.linkedin.com/in/ali-fakhrany-041422357/?skipRedirect=true
+| Photo | Name                                   | Role                 | Profile Link                                                                                                                                                                                                                                                                   |
+| ----- | -------------------------------------- | -------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| 🖼️   | **Abdelrhman Hamed Mousaa**            | Team Member          | [https://www.linkedin.com/in/abdelrhman-hamed23/](https://www.linkedin.com/in/abdelrhman-hamed23/)                                                                                                                                                                             |
+| 🖼️   | **Mohamed Abdelhady Abdellatif**       | Team Member          | [https://www.linkedin.com/in/mohamed-abdelhady-6b339141](https://www.linkedin.com/in/mohamed-abdelhady-6b339141)                                                                                                                                                               |
+| 🖼️   | **Mostafa Osama Fatouh**               | Team Member          | *(Not provided in file)*                                                                                                                                                                                                                                                       |
+| 🖼️   | **Ali Ahmed Abdelazim (Ali Fakhrany)** | Team Member          | [https://www.linkedin.com/in/ali-fakhrany-041422357/?skipRedirect=true](https://www.linkedin.com/in/ali-fakhrany-041422357/?skipRedirect=true)                                                                                                                                 |
+| 🖼️   | **Upwork Freelancer Profile**          | External Contributor | [https://www.upwork.com/freelancers/~015b0215b757cbc876](https://www.upwork.com/freelancers/~015b0215b757cbc876)                                                                                                                                                               |
+| 🖼️   | **Kafiil Profile**                     | External Contributor | [https://kafiil.com/](https://kafiil.com/)                                                                                                                                                                                                                                     |
+| 🖼️   | **Facebook Ads Service Provider**      | External Contributor | [https://www.upwork.com/services/product/marketing-increase-your-sales-leads-with-expert-facebook-ads-media-buying-1975242458631335589](https://www.upwork.com/services/product/marketing-increase-your-sales-leads-with-expert-facebook-ads-media-buying-1975242458631335589) |
+
 ---
 
