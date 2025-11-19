@@ -3,190 +3,155 @@
 ## instagram 📸
 https://www.instagram.com/k.titiscarves/
 
-<img width="1366" height="2525" alt="FireShot Capture 008 - Instagram -  www instagram com" src="https://github.com/user-attachments/assets/3fc87f84-8e01-49ac-8a03-65a71d535395" />
+<img width="754" height="659" alt="image" src="https://github.com/user-attachments/assets/13c0526f-5815-4d9c-9eac-43400cbf1b31" />
 
 ## Facebook Link 💫
 https://www.facebook.com/K.TiTiscarves
 
 ![FireShot Capture 027 - (2) Facebook -  www facebook com](https://github.com/user-attachments/assets/4c4d85fa-17dc-4b01-afe0-6b717ece8ee8)
-<img width="1351" height="2467" alt="FireShot Capture 024 - (2) Facebook -  www facebook com" src="https://github.com/user-attachments/assets/69c3ddee-a52a-438a-97e3-fde85c50fa28" />
+<img width="455" height="570" alt="image" src="https://github.com/user-attachments/assets/214af3f3-7596-4e7e-8328-d87a046c6914" />
 
 
-_____________________________________________________________________________________________________________________________________________________________________________________________
+____________________________________________________________________________________________________________________________________________________________________________________________
 
-# K. TiTi Project README
 
-## Team Members
+# K. TiTi Scarves  
+![Banner](/mnt/data/banner.png)
 
--   Mostafa Osama Fatouh
--   Ahmed Fathy Hassan
--   Ali Ahmed Abdelazim
--   Abdelrhman Hamed Mousaa
--   Mohamed Abdelhady Abdellatif
--   Waleed Aly Shebl
+## 📌 Team Members  
+| Name | Role |
+|------|------|
+| Mostafa Osama Fatouh | Team Member |
+| Ahmed Fathy Hassan | Team Member |
+| Ali Ahmed Abdelazim | Team Member |
+| Abdelrhman Hamed Mousaa | Team Member |
+| Mohamed Abdelhady Abdellatif | Team Member |
+| Waleed Aly Shebl | Team Member |
 
-## Agenda
+---
 
-1.  Introduction
-2.  Market Research
-3.  Buyer Persona
-4.  SOSTAC Model
-5.  Marketing Mix
-6.  Digital Marketing Plan
-7.  KPIs and Results
-8.  Conclusion
+## 📋 Agenda  
+| Section | Description |
+|--------|-------------|
+| Introduction | Overview of the brand |
+| Market Research | Market analysis and trends |
+| Buyer Persona | Customer profiling |
+| SOSTAC Model | Strategy framework |
+| Marketing Mix | 4Ps strategy |
+| Digital Marketing Plan | Online marketing strategy |
+| KPIs & Results | Measurement metrics |
+| Conclusion | Summary of insights |
 
-## Introduction
+---
 
-K. TiTi is a new Egyptian brand specialized in producing modern scarf
-designs that combine elegance, comfort, simplicity, and affordability.
-The brand aims to provide a practical, high-quality product that fits
-the daily lifestyle of Egyptian girls while keeping up with modest
-fashion trends.
+## 🧵 Introduction  
+**K. TiTi** is a modern Egyptian brand designing stylish scarves that combine **elegance, comfort, and simplicity** at affordable prices.  
+The brand is designed for young women seeking practical, fashionable, and modest looks.
 
-## Brand Story
+---
 
-The story started with a simple idea: a small scarf piece can change the
-whole look. The founders noticed that girls in Egypt look for scarves
-that are elegant, simple, and suitable without paying high prices. They
-asked themselves: why shouldn't the scarf be more than an accessory? Why
-not a statement of identity and personality?
+## 🎨 Brand Story  
+A small idea turned into a vision:  
+A scarf isn’t *just an accessory* — it’s a part of identity, confidence, and elegance.  
+K. TiTi was created to offer stylish designs without the high price tag.  
 
-## Market Research
+---
 
--   The scarf market in Egypt is highly competitive with rising demand
-    for modest fashion.
--   Competition mainly occurs online through social media.
--   Consumers prefer unique printed designs over plain colors.
+## 📊 Market Research  
+| Insight | Details |
+|--------|---------|
+| Demand | High demand for modest fashion |
+| Competition | Many local brands selling online |
+| Trends | Printed scarves dominate the market |
 
-## Market Trends
+---
 
-Popular styles include: - Floral and botanical prints\
-- Geometric designs\
-- A mix of modern and classic looks
+## 🧭 Market Trends  
+Popular styles include:  
+- Floral & botanical prints  
+- Modern geometric patterns  
+- Mix of classic + contemporary looks  
 
-Customers prefer distinctive, memorable designs.
+---
 
-## Competitor Benchmark
+## ⚔️ Competitor Benchmark  
+| Brand | Strengths | Weaknesses |
+|-------|-----------|-----------|
+| Pastel Scarves | High-quality photos, strong identity | Low engagement |
+| Ash Scarf | Simple, relatable content | Weak advertising |
 
-Major competitors include: - JoJo Scarf\
-- Scarf Shop\
-- Pastel Scarves
+---
 
-They offer: - High-quality materials\
-- Competitive pricing\
-- Strong visual identity
+## 👩‍🦰 Buyer Persona  
+### 👧 Persona 1: **Amira (18–23)**  
+| Category | Details |
+|---------|---------|
+| Job | University Student |
+| Style | Simple, elegant |
+| Challenges | Fear of poor quality online |
 
-## Buyer Persona
+### 👩 Persona 2: **Alia (24–35)**  
+| Category | Details |
+|---------|---------|
+| Job | Working Professional |
+| Need | Quick stylish outfits |
+| Challenges | Difference between real & pictured product |
 
-### Persona 1: Amira (18--23)
+---
 
--   University student\
--   Loves simple, elegant hijab styles\
--   Challenges: difficulty finding suitable models, fear of online
-    quality issues
+## 📌 SOSTAC Summary  
+| Component | Description |
+|-----------|-------------|
+| Situation | New brand in competitive market |
+| Objectives | 500 followers + daily posting |
+| Strategy | Focus on visuals & engagement |
+| Tactics | Paid ads + strong visuals |
+| Action | Consistent content plan |
+| Control | KPIs: engagement, CTR, followers |
 
-### Persona 2: Alia (24--35)
+---
 
--   Working professional\
--   Wants quick, stylish looks\
--   Challenges: product differences from photos, quality concerns
+## 💼 Marketing Mix (4Ps)  
+| 4P | Details |
+|----|---------|
+| **Product** | High‑quality chiffon, crepe, satin, cotton |
+| **Price** | 190–300 EGP |
+| **Place** | Online store + social media |
+| **Promotion** | Ads, offers, attractive visuals |
 
-## SOSTAC Analysis
+---
 
-### Current Situation
+## 💻 Digital Marketing Plan  
+- Platforms: **Facebook & Instagram**  
+- Budget: **1500 EGP**  
+- Type: **Brand Awareness Campaign**  
+- Target: Girls aged **18–35**  
 
--   New brand entering a crowded market.
--   Audience: women 20--35, middle class, Cairo residents.
+---
 
-### Market Trends
+## 📈 KPIs  
+| KPI | Target |
+|-----|--------|
+| Engagement Rate | +20% |
+| Followers | 500 in 2 months |
+| Monthly Sales | 4–5 orders |
+| CTR | Improve monthly |
 
--   Printed cotton scarves are dominant.
--   Promotions like "Buy 2, get 1 free" are common.
+---
 
-### Competitor Analysis
+## 🌟 Conclusion  
+K. TiTi has all the elements to grow into a strong Egyptian scarf brand:  
+- Understand the customer  
+- Maintain quality  
+- Keep innovating  
+- Build a community  
 
-Pastel Scarves: - Strong photography - High-quality materials\
-Ash Scarf: - Simple, authentic content\
-- Needs better ad campaigns
+Success = **Creativity + Consistency + Customer Trust**
 
-## SWOT Analysis
+---
 
-**Strengths:**\
-- Understanding needs of young Egyptian women\
-- Modern designs
+## 👥 Work Team  
+Find the team on LinkedIn and freelancing platforms.
 
-**Weaknesses:**\
-- No customer base yet\
-- No distribution channels
+---
 
-**Opportunities:**\
-- Growth of modest fashion\
-- E-commerce expansion
-
-**Threats:**\
-- Fast-changing trends\
-- Economic instability
-
-## Objectives
-
-**Social Media Goals:**\
-- Post daily\
-- Reach 500 followers in 2 months\
-- Achieve 4--5 monthly purchases
-
-**Brand Goals:**\
-- Launch seasonal collections\
-- Introduce accessories within 6 months
-
-## Content Strategy
-
--   Highlight elegance + practicality\
--   Emphasize quality and real-life usage\
--   Use attractive visuals and engaging posts
-
-## Tactics
-
--   Increase awareness through followers & engagement\
--   Boost sales over 3 months\
--   Improve customer trust by increasing inquiries by 30%
-
-## Digital Marketing Plan
-
--   Platforms: Facebook, Instagram\
--   Budget: 1500 EGP\
--   Campaign type: Brand Awareness\
--   Target: University girls and young professionals
-
-## Marketing Mix (4Ps)
-
-### Product
-
-High-quality materials: chiffon, crepe, satin, cotton.
-
-### Price
-
-Ranges 190--300 EGP\
-Shipping: 45--65 EGP
-
-### Place
-
-Sold online only.
-
-### Promotion
-
--   Paid ads\
--   Attractive visuals\
--   Launch discounts
-
-## KPIs
-
--   Engagement rate\
--   New followers\
--   CTR
-
-## Conclusion
-
-The journey has just begun, but success relies on understanding
-customers, continuous improvement, and building a real community around
-the brand.
