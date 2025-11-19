@@ -3,12 +3,12 @@
 ## instagram 📸
 https://www.instagram.com/k.titiscarves/
 
-<img width="150" height="150" alt="image" src="https://github.com/user-attachments/assets/13c0526f-5815-4d9c-9eac-43400cbf1b31" />
+<img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/13c0526f-5815-4d9c-9eac-43400cbf1b31" />
 
 ## Facebook Link 💫
 https://www.facebook.com/K.TiTiscarves
 
-<img width="150" height="150" alt="image" src="https://github.com/user-attachments/assets/214af3f3-7596-4e7e-8328-d87a046c6914" />
+<img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/214af3f3-7596-4e7e-8328-d87a046c6914" />
 
 
 ____________________________________________________________________________________________________________________________________________________________________________________________
