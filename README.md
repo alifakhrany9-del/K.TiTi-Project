@@ -15,6 +15,7 @@ ________________________________________________________________________________
 
 
 <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/6a141cca-27e3-4c98-a88d-9440dc08ccc5" />
+
 # K. TiTi Scarves 
 
 
