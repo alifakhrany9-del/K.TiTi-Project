@@ -152,6 +152,8 @@ Success = **Creativity + Consistency + Customer Trust**
 
 ## 👥 Work Team  
 Find the team on LinkedIn and freelancing platforms.
-
+1 . https://www.linkedin.com/in/abdelrhman-hamed23/
+2 . https://www.linkedin.com/in/mostafa-osama-304055240?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app
+3 . https://www.linkedin.com/in/ali-fakhrany-041422357/?skipRedirect=true
 ---
 
