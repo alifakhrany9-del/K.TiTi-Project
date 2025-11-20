@@ -138,6 +138,50 @@ What began as a simple idea evolved into a clear vision: a scarf transcends bein
 - **Advertising:** Mostafa Osama
 - **Documentation:** Mohamed Abdelhady
 
+## 📅 Project Timeline & Gantt Chart
+
+### Detailed Schedule
+
+| Task                                   | Week 1 | Week 2 | Week 3 | Week 4 | Week 5 | Week 6 | Week 7 | Week 8 | Week 9 |
+|----------------------------------------|--------|--------|--------|--------|--------|--------|--------|--------|--------|
+| Market research                        | ███    | ███    |        |        |        |        |        |        |        |
+| Brand identity & page enhancement      | ███    | ███    |        |        |        |        |        |        |        |
+| Content calendar creation              |        |        | ██     |        |        |        |        |        |        |
+| Daily posting                          |        |        |        | ████   |        |        |        |        |        |
+| Regular posting (every 2–3 days)       |        |        |        |        | █████  | █████  | ███    |        |        |
+| Paid ads (Late Sep – Oct)              |        |        |        |        |        | ███    | ███    | ███    |        |
+| Special posts (6 & 7 October)          |        |        |        |        |        |        | █      |        |        |
+| Sales start (Mid-October)              |        |        |        |        |        |        |        | ███    | ███    |
+| Reporting & documentation              |        |        |        |        |        |        |        |        | ████   |
+
+### Monthly Breakdown
+
+#### 📍 September
+- **Week 1-2:** Market research & brand development
+- **Week 3:** Content planning & strategy finalization
+- **Week 4:** Daily posting initiation
+
+#### 📍 October  
+- **Week 5-7:** Regular posting rhythm + paid advertising
+- **Week 7:** Special campaign (6th October celebrations)
+- **Week 8-9:** Sales activation & performance monitoring
+
+#### 📍 November
+- **Week 9:** Final reporting & project documentation
+
+### Key Milestones
+- 🎯 **September 15:** Content calendar completion
+- 🎯 **October 6-7:** Special holiday campaign
+- 🎯 **October 15:** Sales program launch
+- 🎯 **November 1:** Project conclusion & reporting
+
+### Duration Summary
+- **Total Project:** 9 weeks
+- **Preparation Phase:** 3 weeks
+- **Execution Phase:** 5 weeks  
+- **Reporting Phase:** 1 week
+
+
 ---
 
 ## ⚠️ Risk Management
