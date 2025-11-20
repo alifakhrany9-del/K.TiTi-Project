@@ -2,11 +2,12 @@
 
 ## 📌 Social Media Presence
 
-### Instagram 📸
+### Facebook 💫
+
 
 <img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/214af3f3-7596-4e7e-8328-d87a046c6914" />
 
-### Facebook 💫
+### Instagram �
 
 <img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/13c0526f-5815-4d9c-9eac-43400cbf1b31" />
 
