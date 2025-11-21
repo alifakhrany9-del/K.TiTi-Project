@@ -132,7 +132,7 @@ What began as a simple idea evolved into a clear vision: a scarf transcends bein
 
 ### Team Responsibilities
 - **Creative Design:** Abdelrhman Hamed
-- **Content Scheduling:** Aly Shebl
+- **Content Scheduling:** Aly Ahmed
 - **Visual Production:** Waleed Aly
 - **Customer Relations:** Ahmed Fathy
 - **Advertising:** Mostafa Osama
